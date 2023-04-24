@@ -13,79 +13,79 @@ Les designs des badges sont disponibles et éditables à cette adresse : [Google
 
 ### Projets
 
-Projet Unity : ![Unity](https://github.com/JulienGamaireSogeti/BadgesGitHub_XR/blob/main/BadgesPNG/BadgeUnity.png?raw=true)
+Projet Unity : ![BadgeUnity](https://github.com/JulienGamaireSogeti/BadgesGitHub_XR/blob/main/BadgesPNG/BadgeUnity.png?raw=true)
 ```markdown
-![Unity](https://github.com/JulienGamaireSogeti/BadgesGitHub_XR/blob/main/BadgesPNG/BadgeUnity.png?raw=true)
+![BadgeUnity](https://github.com/JulienGamaireSogeti/BadgesGitHub_XR/blob/main/BadgesPNG/BadgeUnity.png?raw=true)
 ```
 
-Package Unity : ![Unity](https://github.com/JulienGamaireSogeti/BadgesGitHub_XR/blob/main/BadgesPNG/BadgeUnityPackage.png?raw=true)
+Package Unity : ![BadgePackage](https://github.com/JulienGamaireSogeti/BadgesGitHub_XR/blob/main/BadgesPNG/BadgeUnityPackage.png?raw=true)
 ```markdown
-![Unity](https://github.com/JulienGamaireSogeti/BadgesGitHub_XR/blob/main/BadgesPNG/BadgeUnityPackage.png?raw=true)
+![BadgePackage](https://github.com/JulienGamaireSogeti/BadgesGitHub_XR/blob/main/BadgesPNG/BadgeUnityPackage.png?raw=true)
 ```
 
 ***
 
 ### Render Pipelines
 
-Built In : ![Unity](https://github.com/JulienGamaireSogeti/BadgesGitHub_XR/blob/main/BadgesPNG/BadgeBuiltIn.png?raw=true)
+Built In : ![BadgeBuiltIn](https://github.com/JulienGamaireSogeti/BadgesGitHub_XR/blob/main/BadgesPNG/BadgeBuiltIn.png?raw=true)
 ```markdown
-![Unity](https://github.com/JulienGamaireSogeti/BadgesGitHub_XR/blob/main/BadgesPNG/BadgeBuiltIn.png?raw=true)
+![BadgeBuiltIn](https://github.com/JulienGamaireSogeti/BadgesGitHub_XR/blob/main/BadgesPNG/BadgeBuiltIn.png?raw=true)
 ```
 
-URP : ![Unity](https://github.com/JulienGamaireSogeti/BadgesGitHub_XR/blob/main/BadgesPNG/BadgeURP.png?raw=true)
+URP : ![BadgeURP](https://github.com/JulienGamaireSogeti/BadgesGitHub_XR/blob/main/BadgesPNG/BadgeURP.png?raw=true)
 ```markdown
-![Unity](https://github.com/JulienGamaireSogeti/BadgesGitHub_XR/blob/main/BadgesPNG/BadgeURP.png?raw=true)
+![BadgeURP](https://github.com/JulienGamaireSogeti/BadgesGitHub_XR/blob/main/BadgesPNG/BadgeURP.png?raw=true)
 ```
 
-HDRP : ![Unity](https://github.com/JulienGamaireSogeti/BadgesGitHub_XR/blob/main/BadgesPNG/BadgeHDRP.png?raw=true)
+HDRP : ![BadgeHDRP](https://github.com/JulienGamaireSogeti/BadgesGitHub_XR/blob/main/BadgesPNG/BadgeHDRP.png?raw=true)
 ```markdown
-![Unity](https://github.com/JulienGamaireSogeti/BadgesGitHub_XR/blob/main/BadgesPNG/BadgeHDRP.png?raw=true)
+![BadgeHDRP](https://github.com/JulienGamaireSogeti/BadgesGitHub_XR/blob/main/BadgesPNG/BadgeHDRP.png?raw=true)
 ```
 
 ***
 
 ### Plateformes
 
-Desktop : ![Unity](https://github.com/JulienGamaireSogeti/BadgesGitHub_XR/blob/main/BadgesPNG/BadgeDesktop.png?raw=true)
+Desktop : ![BadgeDesktop](https://github.com/JulienGamaireSogeti/BadgesGitHub_XR/blob/main/BadgesPNG/BadgeDesktop.png?raw=true)
 ```markdown
-![Unity](https://github.com/JulienGamaireSogeti/BadgesGitHub_XR/blob/main/BadgesPNG/BadgeDesktop.png?raw=true)
+![BadgeDesktop](https://github.com/JulienGamaireSogeti/BadgesGitHub_XR/blob/main/BadgesPNG/BadgeDesktop.png?raw=true)
 ```
 
-WebGL : ![Unity](https://github.com/JulienGamaireSogeti/BadgesGitHub_XR/blob/main/BadgesPNG/BadgeWebGL.png?raw=true)
+WebGL : ![BadgeWebGL](https://github.com/JulienGamaireSogeti/BadgesGitHub_XR/blob/main/BadgesPNG/BadgeWebGL.png?raw=true)
 ```markdown
-![Unity](https://github.com/JulienGamaireSogeti/BadgesGitHub_XR/blob/main/BadgesPNG/BadgeWebGL.png?raw=true)
+![BadgeWebGL](https://github.com/JulienGamaireSogeti/BadgesGitHub_XR/blob/main/BadgesPNG/BadgeWebGL.png?raw=true)
 ```
 
-UWP : ![Unity](https://github.com/JulienGamaireSogeti/BadgesGitHub_XR/blob/main/BadgesPNG/BadgeUWP.png?raw=true)
+UWP : ![BadgeUWP](https://github.com/JulienGamaireSogeti/BadgesGitHub_XR/blob/main/BadgesPNG/BadgeUWP.png?raw=true)
 ```markdown
-![Unity](https://github.com/JulienGamaireSogeti/BadgesGitHub_XR/blob/main/BadgesPNG/BadgeUWP.png?raw=true)
+![BadgeUWP](https://github.com/JulienGamaireSogeti/BadgesGitHub_XR/blob/main/BadgesPNG/BadgeUWP.png?raw=true)
 ```
 
-Hololens : ![Unity](https://github.com/JulienGamaireSogeti/BadgesGitHub_XR/blob/main/BadgesPNG/BadgeHololens.png?raw=true)
+Hololens : ![BadgeHololens](https://github.com/JulienGamaireSogeti/BadgesGitHub_XR/blob/main/BadgesPNG/BadgeHololens.png?raw=true)
 ```markdown
-![Unity](https://github.com/JulienGamaireSogeti/BadgesGitHub_XR/blob/main/BadgesPNG/BadgeHololens.png?raw=true)
+![BadgeHololens](https://github.com/JulienGamaireSogeti/BadgesGitHub_XR/blob/main/BadgesPNG/BadgeHololens.png?raw=true)
 ```
 
-Android : ![Unity](https://github.com/JulienGamaireSogeti/BadgesGitHub_XR/blob/main/BadgesPNG/BadgeAndroid.png?raw=true)
+Android : ![BadgeAndroid](https://github.com/JulienGamaireSogeti/BadgesGitHub_XR/blob/main/BadgesPNG/BadgeAndroid.png?raw=true)
 ```markdown
-![Unity](https://github.com/JulienGamaireSogeti/BadgesGitHub_XR/blob/main/BadgesPNG/BadgeAndroid.png?raw=true)
+![BadgeAndroid](https://github.com/JulienGamaireSogeti/BadgesGitHub_XR/blob/main/BadgesPNG/BadgeAndroid.png?raw=true)
 ```
 
-iOS : ![Unity](https://github.com/JulienGamaireSogeti/BadgesGitHub_XR/blob/main/BadgesPNG/BadgeIOS.png?raw=true)
+iOS : ![BadgeIOS](https://github.com/JulienGamaireSogeti/BadgesGitHub_XR/blob/main/BadgesPNG/BadgeIOS.png?raw=true)
 ```markdown
-![Unity](https://github.com/JulienGamaireSogeti/BadgesGitHub_XR/blob/main/BadgesPNG/BadgeIOS.png?raw=true)
+![BadgeIOS](https://github.com/JulienGamaireSogeti/BadgesGitHub_XR/blob/main/BadgesPNG/BadgeIOS.png?raw=true)
 ```
 
 ***
 
 ### Médias
 
-Réalité augmentée : ![Unity](https://github.com/JulienGamaireSogeti/BadgesGitHub_XR/blob/main/BadgesPNG/BadgeAR.png?raw=true)
+Réalité augmentée : ![BadgeAR](https://github.com/JulienGamaireSogeti/BadgesGitHub_XR/blob/main/BadgesPNG/BadgeAR.png?raw=true)
 ```markdown
-![Unity](https://github.com/JulienGamaireSogeti/BadgesGitHub_XR/blob/main/BadgesPNG/BadgeAR.png?raw=true)
+![BadgeAR](https://github.com/JulienGamaireSogeti/BadgesGitHub_XR/blob/main/BadgesPNG/BadgeAR.png?raw=true)
 ```
 
-Réalité virtuelle : ![Unity](https://github.com/JulienGamaireSogeti/BadgesGitHub_XR/blob/main/BadgesPNG/BadgeVR.png?raw=true)
+Réalité virtuelle : ![BadgeVR](https://github.com/JulienGamaireSogeti/BadgesGitHub_XR/blob/main/BadgesPNG/BadgeVR.png?raw=true)
 ```markdown
-![Unity](https://github.com/JulienGamaireSogeti/BadgesGitHub_XR/blob/main/BadgesPNG/BadgeVR.png?raw=true)
+![BadgeVR](https://github.com/JulienGamaireSogeti/BadgesGitHub_XR/blob/main/BadgesPNG/BadgeVR.png?raw=true)
 ```
