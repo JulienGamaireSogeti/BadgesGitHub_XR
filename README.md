@@ -23,6 +23,11 @@ Package Unity : ![BadgePackage](https://github.com/JulienGamaireSogeti/BadgesGit
 ![BadgePackage](https://github.com/JulienGamaireSogeti/BadgesGitHub_XR/blob/main/BadgesPNG/BadgeUnityPackage.png?raw=true)
 ```
 
+Projet Blender : ![BadgeBlender](https://github.com/JulienGamaireSogeti/BadgesGitHub_XR/blob/main/BadgesPNG/BadgeBlender.png?raw=true)
+```markdown
+![BadgeBlender](https://github.com/JulienGamaireSogeti/BadgesGitHub_XR/blob/main/BadgesPNG/BadgeBlender.png?raw=true)
+```
+
 ***
 
 ### Render Pipelines
