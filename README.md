@@ -94,3 +94,8 @@ Réalité virtuelle : ![BadgeVR](https://github.com/JulienGamaireSogeti/BadgesGi
 ```markdown
 ![BadgeVR](https://github.com/JulienGamaireSogeti/BadgesGitHub_XR/blob/main/BadgesPNG/BadgeVR.png?raw=true)
 ```
+
+Métavers : ![BadgeMetavers](https://github.com/JulienGamaireSogeti/BadgesGitHub_XR/blob/main/BadgesPNG/BadgeMetavers.png?raw=true)
+```markdown
+![BadgeMetavers](https://github.com/JulienGamaireSogeti/BadgesGitHub_XR/blob/main/BadgesPNG/BadgeMetavers.png?raw=true)
+```
